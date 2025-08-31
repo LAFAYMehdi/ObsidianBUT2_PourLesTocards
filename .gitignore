@@ -1,0 +1,43 @@
+# --- Git ---
+.git/
+
+# --- Obsidian ---
+.obsidian/
+
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+
+# Icones générées par Finder
+Icon?
+# Fichiers de miniature
+._*
+
+# --- Windows ---
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Linux ---
+*~
+.nfs*
+
+# --- Logs & temporaires ---
+*.log
+*.tmp
+*.swp
+*.swo
+
+# --- Sauvegardes éditeur ---
+*.bak
+*.old
+
+# --- Node / Python (au cas où un projet est dedans) ---
+node_modules/
+__pycache__/
+*.pyc
