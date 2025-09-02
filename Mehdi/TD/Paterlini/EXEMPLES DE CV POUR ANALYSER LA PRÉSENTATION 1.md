@@ -6,10 +6,9 @@ tags:
 creation: 2024-09-02
 ---
 ----
-
 # Feedback CVs
 
-## CV 1 & 2
+## [CV 1 & 2](Mehdi/TD/Paterlini/ExempleCV.pdf#page=2)
 **Photo** : Pas obligatoire
 - À éviter : photos ternes, sombres, visage tendu
 - À privilégier : sourire, fond neutre, col visible
@@ -26,7 +25,7 @@ creation: 2024-09-02
 
 ---
 
-## CV 3
+## [CV 3](Mehdi/TD/Paterlini/ExempleCV.pdf#page=4)
 **Photo** : 
 - Bien mais regarde de trop haut
 - Belle photo
@@ -41,7 +40,7 @@ creation: 2024-09-02
 
 ---
 
-## CV 4
+## [CV 4](Mehdi/TD/Paterlini/ExempleCV.pdf#page=5)
 **Global** : Difficile à lire
 
 **Photo** :
@@ -55,7 +54,7 @@ creation: 2024-09-02
 
 ---
 
-## CV 5
+## [CV 5](Mehdi/TD/Paterlini/ExempleCV.pdf#page=6)
 **Tenue** :
 - Préférer polo/chemise à sweat/pull
 
@@ -66,7 +65,7 @@ creation: 2024-09-02
 
 ---
 
-## CV 6
+## [CV 6](Mehdi/TD/Paterlini/ExempleCV.pdf#page=7)
 **Photo** :
 - Trop de profil
 - Belle expression
@@ -78,7 +77,7 @@ creation: 2024-09-02
 
 ---
 
-## CV 7
+## [CV 7](Mehdi/TD/Paterlini/ExempleCV.pdf#page=8)
 **Photo** :
 - Méprisante
 - Trop sombre
@@ -91,13 +90,13 @@ creation: 2024-09-02
 
 ---
 
-## CV 8
+## [CV 8](Mehdi/TD/Paterlini/ExempleCV.pdf#page=9)
 **Verdict** : Rien ne va
 - Seul élément acceptable : bande gauche et son trait séparé par l'image
 
 ---
 
-## CV 9
+## [CV 9](Mehdi/TD/Paterlini/ExempleCV.pdf#page=10)
 **Photo** :
 - Pas complètement centrée
 - Sourire léger souhaitable
@@ -113,7 +112,7 @@ creation: 2024-09-02
 
 ---
 
-## CV 10
+## [CV 10](Mehdi/TD/Paterlini/ExempleCV.pdf#page=11)
 **Photo** :
 - Cheveux clairs sur fond trop clair
 
@@ -128,7 +127,7 @@ creation: 2024-09-02
 
 ---
 
-## CV 11
+## [CV 11](Mehdi/TD/Paterlini/ExempleCV.pdf#page=12)
 **Verdict** : Sobre sans photo → bon CV
 
 ---
