@@ -44,3 +44,4 @@ Descripteur de fichier : ==FILE*==
 Les E/S se font à l'aide d'un descripteur de fichiers, soit un descripteur prédéfini pour les flux standards, soit un descripteur qu'en .................. Pour accéder à des fichiers
 Pour accéder à des fichiers, on utilisera une fonction permettant d'effectuer ==l'ouverture du fichier==. En cas de succès la fonction retourne un descripteur de fichier valide.
 Lorsqu'on a terminé avec un descripteur de fichiers, il faut faire l'opération de ==fermeture== du descripteur.
+
