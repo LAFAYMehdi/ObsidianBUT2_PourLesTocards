@@ -16,14 +16,7 @@ Les entrées/Sorties s'appliquent sur
 
 ## Organisation en couches
 
-Application (programme)
-    v                          l
-API de haut niveau      l
-	v                          v
-Interface de programmation (API) de bas niveau
-Système d'exploitation
-	v
-fichier sur un disque
+![[Organisation en couches.canvas]]
 
 ---
 API haut niveau : fournie par la bibliothèque c (lib c)
