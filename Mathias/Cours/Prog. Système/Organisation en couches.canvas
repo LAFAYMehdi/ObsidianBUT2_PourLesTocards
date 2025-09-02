@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ef4830df7a06b899","type":"text","text":"Interface de programmation (API) de bus interne\nSystème d'exploitation","x":-80,"y":80,"width":420,"height":60,"color":"1"},
+		{"id":"616570892308cd19","type":"text","text":"API de haut-niveau (Library Base C)","x":-245,"y":-100,"width":250,"height":60,"color":"3"},
+		{"id":"4203a1518745be5f","type":"text","text":"Application (programme)","x":5,"y":-240,"width":250,"height":60,"color":"5"},
+		{"id":"a80198bea17438a1","type":"file","file":"Mathias/Images/database.jpg","x":-20,"y":216,"width":125,"height":125,"color":"6"},
+		{"id":"8389e24523eafa45","type":"text","text":"Fichier sur un disque","x":-80,"y":341,"width":250,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"4f23300e563e213c","fromNode":"4203a1518745be5f","fromSide":"bottom","toNode":"ef4830df7a06b899","toSide":"top","color":"4"},
+		{"id":"073292d7cba043ec","fromNode":"4203a1518745be5f","fromSide":"bottom","toNode":"616570892308cd19","toSide":"top","color":"4"},
+		{"id":"15aed1e4a4e10504","fromNode":"616570892308cd19","fromSide":"bottom","toNode":"ef4830df7a06b899","toSide":"top","color":"4"},
+		{"id":"8ca1fc8748d717a7","fromNode":"ef4830df7a06b899","fromSide":"bottom","toNode":"a80198bea17438a1","toSide":"top","color":"4"}
+	]
+}
