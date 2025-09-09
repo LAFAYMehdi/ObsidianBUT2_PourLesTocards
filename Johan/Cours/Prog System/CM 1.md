@@ -36,3 +36,4 @@ Les E/S se font à l'aide:
 	 ==stderr== -> sortie d'erreur
 Pour accéder à des fichiers, on utilisent une fonction permettant d'effectuer ==l'ouverture du fichier==. En cas de succès les fonctions retourne un descripteur de fichier valide.
 Lorsqu'un a terminé avec un descripteur de fichier, il faut faire l'opération de fermeture du descripteur.
+
