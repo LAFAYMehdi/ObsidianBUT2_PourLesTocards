@@ -55,3 +55,30 @@ Dictionnaire des synonymes :
 -> colérique, violent verbalement, agressif = 3 formulations pour chacun
 -> Ponctuel = synonyme à l'heure, Rend les projets en temps et en heure
 Pas de défaut à l'écrit, si on demande pas on dit pas 
+
+
+3 Qualité professionnel : 
+- Persévérant,
+- même après plusieurs échec, je continue, 
+- capable de surmonter les obstacles
+
+- Dynamique, 
+- impliqué, 
+- moteur dans une équipe
+
+- Flexible 
+- ouvert au changement, 
+- capable de s'ajuster rapidement
+
+3 défaut acceptable professionnellement : 
+- Impatient, 
+- Veut parfois aller trop vite, 
+- peut manquer de patience face aux délais.
+
+- Direct, 
+- sans détour, 
+- parfois peu diplomate
+
+- Curieux
+- Pose beaucoup de questions, 
+- parfois trop insistant.
