@@ -65,3 +65,23 @@ Lumière naturelle
 
 
 
+
+### Evaluer un  CV créé par IA 
+- "Maitrise des outils informatiques" : Tous les outils ?
+- Mettre les langues et l'informatique pas si bonne idée
+- "internet" (Langues et informatiques) ??
+- Loisirs : Depuis quand le club ?
+- Pas mettre étudiant car il recherche un stage
+- Mettre le dynamisme avec exemple des anciens 
+- Le projet tutoré, plus de précision, et le mettre dans expérience 
+- 
+
+
+
+
+### A changer dans le CV 
+- Mettre la date du stage (8 semaines et commence en avril)
+- Octobre 2025 - Mars 2026
+
+
+
