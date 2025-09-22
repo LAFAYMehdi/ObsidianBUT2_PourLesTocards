@@ -1,6 +1,6 @@
 # Ouverture de fichier
 L'opération d'ouverture de fichier permet d'obtenir un descripteur associé à un fichier pour y faire des opérations 
-FILE * fopen(const char *pâthname, const char *mode);
+FILE * fopen(const char * pathname, const char * mode);
 FILE *fdopen(int fd, const char *mode);
 FILE freopen(const char *pathname, cons char *mode, ...);
 

@@ -64,7 +64,7 @@ Pas de défaut à l'écrit, si on demande pas on dit pas
 
 - Dynamique, 
 - impliqué, 
-- moteur dans une équipe
+- ...
 
 - Flexible 
 - ouvert au changement, 
