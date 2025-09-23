@@ -61,6 +61,6 @@ exemple (à ne pas mettre) :
 → Calme / Garde mon sang froid lors de moment stressant / Réfléchi avant d'agir
 → Rigoureux / Porte soin aux détails / Soucieux de la qualité d'un projet 
 
-→ Timide / Réservé / Préfère observer avant d’interagir
-→ Indécis / Hésitant / Prend du temps à prendre des décisions
+→ Timide / Réservé / Introverti
+→ Indécis / Hésitant / Prend du temps à prendre des décisions / indéterminé
 → Impatient / Aime voir des résultats rapidement / N'aime pas les retards

@@ -1,7 +1,7 @@
-pour le 16.09
+**pour le 16.09**
 
 ### 3 qualités :
-serieux / fiable / respecte ses engagemenrs
+sérieux / fiable / respecte ses engagements
 calme / garde son sang froid / serein
 appliqué / fait son travail avec soin / soigneux
 
@@ -9,6 +9,11 @@ appliqué / fait son travail avec soin / soigneux
 réservé / timide / parle peu en public
 désorganisé / peu structuré / a du mal a planifier
 indécis / incertain / a du mal a faire des choix
+
+**POUR LE 23.09**
+## COURS LM : faire les exercices de la partie 6
+
+
 
 
 
