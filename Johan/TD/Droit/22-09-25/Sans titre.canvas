@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"6cf7ba2d44c04d1c","type":"group","collapsed":true,"x":-140,"y":-140,"width":300,"height":300},
 		{
 			"id":"a2d6cf93d781b28c",
 			"type":"text",
@@ -8,16 +7,6 @@
 			"styleAttributes":{},
 			"x":-460,
 			"y":-40,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"658b5bbc879742fa",
-			"type":"text",
-			"text":"Economique",
-			"styleAttributes":{},
-			"x":-140,
-			"y":-140,
 			"width":260,
 			"height":60
 		},
@@ -62,6 +51,36 @@
 			"height":60
 		},
 		{
+			"id":"449319db38af93cf",
+			"type":"text",
+			"text":"Notification",
+			"styleAttributes":{},
+			"x":700,
+			"y":-40,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5fbc749bb1820fe3",
+			"type":"text",
+			"text":"Entretien",
+			"styleAttributes":{},
+			"x":700,
+			"y":-160,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ce0d0e306a545304",
+			"type":"text",
+			"text":"Convocation",
+			"styleAttributes":{},
+			"x":700,
+			"y":-280,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"5feef2210b5ad73a",
 			"type":"text",
 			"text":"Lourde",
@@ -94,40 +113,10 @@
 		{
 			"id":"a2ad32b8a0c28747",
 			"type":"text",
-			"text":"Grave",
+			"text":"Grave (ex: fait perdre argent à entreprise)",
 			"styleAttributes":{},
 			"x":960,
 			"y":280,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"449319db38af93cf",
-			"type":"text",
-			"text":"Notification",
-			"styleAttributes":{},
-			"x":700,
-			"y":-40,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"5fbc749bb1820fe3",
-			"type":"text",
-			"text":"Entretien",
-			"styleAttributes":{},
-			"x":700,
-			"y":-160,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"ce0d0e306a545304",
-			"type":"text",
-			"text":"Convocation",
-			"styleAttributes":{},
-			"x":700,
-			"y":-280,
 			"width":260,
 			"height":60
 		},
@@ -190,6 +179,86 @@
 			"y":350,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"658b5bbc879742fa",
+			"type":"text",
+			"text":"Economique",
+			"styleAttributes":{},
+			"x":-140,
+			"y":-660,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"be75e535b4d16ecd",
+			"type":"text",
+			"text":"Individuel",
+			"styleAttributes":{},
+			"x":200,
+			"y":-800,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"24c650ecc0b6a982",
+			"type":"text",
+			"text":"Petit",
+			"styleAttributes":{},
+			"x":200,
+			"y":-690,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ddf3f00361c6de27",
+			"type":"text",
+			"text":"Grand",
+			"styleAttributes":{},
+			"x":200,
+			"y":-580,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"604dc19e1dc7a4b8",
+			"type":"text",
+			"text":"< 10 personnes sur < 30 jours",
+			"styleAttributes":{},
+			"x":570,
+			"y":-690,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5cfd1bc364aa36ed",
+			"type":"text",
+			"text":"OPTION : Même procédure que sur motif personnel, Priorité de Ré-embauche\nSi salarié a pris l'option et que l'employeur ne le notifie pas, il doit verser 2 mois de salaire",
+			"styleAttributes":{},
+			"x":570,
+			"y":-900,
+			"width":260,
+			"height":160
+		},
+		{
+			"id":"2ee70a45c6243a85",
+			"type":"text",
+			"text":"RECLASSEMENT PRÉALABLE à LA PROCÉDURE",
+			"styleAttributes":{},
+			"x":920,
+			"y":-930,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b62624fa2ab7d6ce",
+			"type":"text",
+			"text":"Quand exemple 250 salarié, peut pas convoquer tout le monde",
+			"styleAttributes":{},
+			"x":500,
+			"y":-560,
+			"width":260,
+			"height":80
 		}
 	],
 	"edges":[
@@ -371,6 +440,78 @@
 			"fromNode":"37d4d36b46883632",
 			"fromSide":"right",
 			"toNode":"43dfa44556398012",
+			"toSide":"left"
+		},
+		{
+			"id":"627de5eafcda7022",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"24c650ecc0b6a982",
+			"fromSide":"right",
+			"toNode":"604dc19e1dc7a4b8",
+			"toSide":"left"
+		},
+		{
+			"id":"a230cc014e45056d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"658b5bbc879742fa",
+			"fromSide":"right",
+			"toNode":"be75e535b4d16ecd",
+			"toSide":"left"
+		},
+		{
+			"id":"bb4eb35633c5019d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"658b5bbc879742fa",
+			"fromSide":"right",
+			"toNode":"ddf3f00361c6de27",
+			"toSide":"left"
+		},
+		{
+			"id":"c51dde606b861224",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"658b5bbc879742fa",
+			"fromSide":"right",
+			"toNode":"24c650ecc0b6a982",
+			"toSide":"left"
+		},
+		{
+			"id":"718b0b0d084c4be9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"be75e535b4d16ecd",
+			"fromSide":"right",
+			"toNode":"5cfd1bc364aa36ed",
+			"toSide":"left"
+		},
+		{
+			"id":"f6419182182b5d10",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"24c650ecc0b6a982",
+			"fromSide":"right",
+			"toNode":"5cfd1bc364aa36ed",
+			"toSide":"left"
+		},
+		{
+			"id":"b146542b34c0cb79",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5cfd1bc364aa36ed",
+			"fromSide":"right",
+			"toNode":"2ee70a45c6243a85",
+			"toSide":"bottom"
+		},
+		{
+			"id":"cf56a47e57e6b8f5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ddf3f00361c6de27",
+			"fromSide":"right",
+			"toNode":"b62624fa2ab7d6ce",
 			"toSide":"left"
 		}
 	],
