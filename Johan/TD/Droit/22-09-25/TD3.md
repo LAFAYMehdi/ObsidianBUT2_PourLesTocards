@@ -46,8 +46,37 @@ L'entreprise peut les licencié pour faute grave voir faute Lourd, dans l'équip
 2e Vrai ou Faux : 
 1) Faux, Jamais être considéré comme démissionnaire, l'IUT fait ça mais n'existe pas, la démission doit être écrite hors de l'entreprise
 2) Vrai
-3) Faux, lorque force majeur, pas lieu de licenciement, mais Contrat est rompu, CDD vont percevoir leur mois de salaire qui reste, CDI vont rien avoir
+3) Faux, lorsque force majeur, pas lieu de licenciement, mais Contrat est rompu, CDD vont percevoir leur mois de salaire qui reste, CDI vont rien avoir
 4) Faux, bonne raison de démissionner 
 5) Vrai, car démissionne pour convenance personnel
-6) Faux
-7) 
+6) Vrai, à partir du moment où le salarié à atteint les 65 ans 
+7) Vrai
+8) Vrai
+9) Vrai
+10) Faux
+11) Vrai
+12) Faux, c'est une rupture conventionnelle du contrat de travaille (donc le salarié et l'employeur doit se mettre d'accord)
+13) Vrai
+14) si litige en salarié et employeur le juge va regarder l'accord négocié donc vrai
+15) Vrai
+
+Cas pratique n°1 : 
+on peut pas considérer quelqu'un comme démissionnaire. Avant d'en arriver à la licencier pour raison personnel, il doit la contacter, puis laisser quelques jours puis il peut attenter le licenciement. Puis Convoquer à un rendez-vous, puis laisser 7 jours puis notifier de son licenciement pour faute grave (abandon de poste)
+
+Cas pratique n°2:
+Accord à l'amiable
+
+cas pratique n°3:
+Accord à l'amiable 
+
+Cas pratique n°4 : 
+la démission doit pas être exprimé dans l'entreprise, mais surtout, On peut pas considéré que c'est une démission vu que c'est dit sous l'effet des émotions.
+
+Cas pratique n°5 : 
+Le contrat de travaille est Rompu, Les CDD percevront les salaires qui reste à couvrir (sur leur contrat) et les CDI ne vont rien percevoir à par les congé payé si il ne les ont pas déjà eu.
+
+Cas pratique n°6 :
+Il a 66 ans donc il ne peut pas refuser, mais il aura un versement d'indemnité et on ne peut pas lui dire ça le matin pour qu'il parte l'aprèm
+
+Cas Pratique n°7 : 
+Non, elle ne peut pas car il a plus de 60 ans, mais il va juste pas la touché à taux pleins.
